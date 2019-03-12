@@ -1,0 +1,7 @@
+export("createTestData","runGls","runSlopes","SPCDbinary",
+       "SPCDcontinuous","SPCDPower","placeboNonResponder","createTestData")
+importFrom("stats", "na.omit", "pchisq", "pf", "pnorm", "qnorm","rnorm",
+             "rbinom", "uniroot")
+importFrom("plyr","ddply")
+importFrom("lme4","lmer")
+importFrom("nlme","gls")

@@ -1,0 +1,11 @@
+709f0c29efa162b9de8a8e99a8a1540b *DESCRIPTION
+b733971eae2f0b9f7471555cb330d844 *NAMESPACE
+b7c86059cf56665b3a3e7d8187939d58 *R/SPCDpower.R
+eb08fa16cdeeba13d96b225385e2e80b *R/SPCDslopes.R
+6b3b9edd692edb40f1e717c83a71b619 *man/SPCDPower.Rd
+dc834cfa0955e3b898360fac5599dc08 *man/SPCDbinary.Rd
+d9c51fe7f35f251c6284f60d4a662fd5 *man/SPCDcontinuous.Rd
+8d02528dfe76ed8713b3ef818546e0eb *man/createTestData.Rd
+6fe0655d342012713e7df8ec8c457881 *man/placeboNonResponder.Rd
+e873a72d1e371d1311518d3d4f296a8f *man/runGls.Rd
+0f77f2a73e33538b308614f8f21c4b80 *man/runSlopes.Rd
